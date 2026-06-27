@@ -301,7 +301,7 @@ def render():
                 bg = "#e4ecd5" if i % 2 == 0 else "#f3f6ec"
                 rows_html += (
                     f'<tr style="background:{bg};">'
-                    f'<td style="padding:2px 6px;font-size:11px;white-space:nowrap;">{e["code"]}</td>'
+                  
                     f'<td style="padding:2px 6px;font-size:11px;text-align:center;">{e["day"]}</td>'
                     f'<td style="padding:2px 6px;font-size:11px;">{e["occasion"]}</td>'
                     f'</tr>'
@@ -309,7 +309,7 @@ def render():
             return (
                 f'<table style="width:100%;border-collapse:collapse;">'
                 f'<thead><tr style="background:{DARK_GREEN};color:#fff;">'
-                f'<th style="padding:3px 6px;font-size:9px;text-align:left;">Evnt no</th>'
+              
                 f'<th style="padding:3px 6px;font-size:9px;text-align:center;">Date</th>'
                 f'<th style="padding:3px 6px;font-size:9px;text-align:left;">Events</th>'
                 f'</tr></thead><tbody>{rows_html}</tbody></table>'
