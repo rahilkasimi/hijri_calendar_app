@@ -254,7 +254,7 @@ def render():
     next_hm_name = cc.HIJRI_MONTH_NAMES[next_hm - 1]
 
     nav_cols[11].markdown(
-            f'<div style="font-family:Arial; font-size:13px;color:#274b8c;">'
+            f'<div style="font-family:Arial; font-size:12px;color:#274b8c;">'
             f'Hijri date: <strong>{conv_hd:02d} {conv_hm_name} {conv_hy:04d}</strong><br />'
             f'After Maghrib: <strong>{next_hd:02d} {next_hm_name} {next_hy:04d}</strong></div>',
             unsafe_allow_html=True,
