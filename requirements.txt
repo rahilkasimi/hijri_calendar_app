@@ -1,0 +1,16 @@
+# ---------------------------------------------------------------------------
+# Runtime dependency for the Hijri (Fatimid / Misri) calendar desktop app.
+# ---------------------------------------------------------------------------
+# The GUI is built with FreeSimpleGUI (the maintained, fully-free fork of
+# PySimpleGUI). It draws on Tkinter, which ships with the standard CPython
+# installer on Windows/macOS. On Linux install the system Tk package too, e.g.
+#     sudo apt-get install python3-tk
+FreeSimpleGUI>=5.1.0
+
+# ---------------------------------------------------------------------------
+# OPTIONAL — only needed if you want to RE-EXTRACT the lookup tables / time
+# database / events straight from the original .xlsx workbook. The shipped app
+# already contains everything it needs (hard-coded tables + data/*.json), so
+# you do NOT need openpyxl just to run the calendar.
+# ---------------------------------------------------------------------------
+# openpyxl>=3.1.0

@@ -1,0 +1,92 @@
+{
+  "Ahmedabad": {
+    "sunrise": 2,
+    "noon": 3,
+    "sunset": 4
+  },
+  "Baroda": {
+    "sunrise": 5,
+    "noon": 6,
+    "sunset": 7
+  },
+  "Dubai": {
+    "sunrise": 8,
+    "noon": 9,
+    "sunset": 10
+  },
+  "Hyderabad": {
+    "sunrise": 11,
+    "noon": 12,
+    "sunset": 13
+  },
+  "Jeddah": {
+    "sunrise": 14,
+    "noon": 15,
+    "sunset": 16
+  },
+  "Kuwait": {
+    "sunrise": 17,
+    "noon": 18,
+    "sunset": 19
+  },
+  "Mumbai": {
+    "sunrise": 20,
+    "noon": 21,
+    "sunset": 22
+  },
+  "Surat": {
+    "sunrise": 23,
+    "noon": 24,
+    "sunset": 25
+  },
+  "Najran": {
+    "sunrise": 26,
+    "noon": 27,
+    "sunset": 28
+  },
+  "Medina": {
+    "sunrise": 29,
+    "noon": 30,
+    "sunset": 31
+  },
+  "Qatar": {
+    "sunrise": 32,
+    "noon": 33,
+    "sunset": 34
+  },
+  "Makkah": {
+    "sunrise": 35,
+    "noon": 36,
+    "sunset": 37
+  },
+  "Toronto": {
+    "sunrise": 38,
+    "noon": 39,
+    "sunset": 40
+  },
+  "Khambhat": {
+    "sunrise": 41,
+    "noon": 42,
+    "sunset": 43
+  },
+  "Sidhpur": {
+    "sunrise": 44,
+    "noon": 45,
+    "sunset": 46
+  },
+  "Karachi": {
+    "sunrise": 47,
+    "noon": 48,
+    "sunset": 49
+  },
+  "Alipur": {
+    "sunrise": 50,
+    "noon": 51,
+    "sunset": 52
+  },
+  "Hyd-Sindh": {
+    "sunrise": 53,
+    "noon": 54,
+    "sunset": 55
+  }
+}

@@ -1,0 +1,1325 @@
+{
+  "1-1": [
+    {
+      "sub": 1,
+      "code": "101",
+      "occasion": "Syd Zoeb b Moosa (1)- 546H - Hawth - Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "102",
+      "occasion": "Syd Abdullah Muballigh 536H - Khambhat"
+    }
+  ],
+  "1-8": [
+    {
+      "sub": 1,
+      "code": "103",
+      "occasion": "Syd Ghulam Hussain b Hibbatullah b Hz.Mq. Fathullah Q.R (1446 - Karachi)"
+    }
+  ],
+  "1-10": [
+    {
+      "sub": 1,
+      "code": "104",
+      "occasion": "Imam Hussain At Taqi A.S. YAUM E AASHUR - 60H"
+    },
+    {
+      "sub": 2,
+      "code": "105",
+      "occasion": "Maulaie Ahmad - Khambhat"
+    }
+  ],
+  "1-11": [
+    {
+      "sub": 1,
+      "code": "106",
+      "occasion": "Haz Ishaque b Zia Ali QR- 1366H - Hyderabad"
+    },
+    {
+      "sub": 2,
+      "code": "107",
+      "occasion": "Maulai Raj b Hassan  925H A'bad"
+    }
+  ],
+  "1-12": [
+    {
+      "sub": 1,
+      "code": "108",
+      "occasion": "Maulaie Al Hadd ul Faazil Abdul Rasool b Yousef - Surat"
+    }
+  ],
+  "1-13": [
+    {
+      "sub": 1,
+      "code": "109",
+      "occasion": "Milad Imam Mansoor Al Aamir A.S."
+    }
+  ],
+  "1-14": [
+    {
+      "sub": 1,
+      "code": "1010",
+      "occasion": "Milad Imam Nazaar Al Aziz Billah A.S."
+    }
+  ],
+  "1-16": [
+    {
+      "sub": 1,
+      "code": "1011",
+      "occasion": "Syd Hatim b Ibrahim (3) - 596H - Hutayb Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "1012",
+      "occasion": "Hazrat IkramAli b Hassan Ali QR - Hyderabad"
+    }
+  ],
+  "1-18": [
+    {
+      "sub": 1,
+      "code": "1013",
+      "occasion": "Imam Ali Zain Ul Aabedeen - 94 H"
+    }
+  ],
+  "1-19": [
+    {
+      "sub": 1,
+      "code": "1014",
+      "occasion": "Hz Ikram Ali b Hussain Ali Qr - 1262 H"
+    }
+  ],
+  "1-20": [
+    {
+      "sub": 1,
+      "code": "1015",
+      "occasion": "Milad Imam Ahmad Al Musta'li A.S."
+    }
+  ],
+  "1-23": [
+    {
+      "sub": 1,
+      "code": "1016",
+      "occasion": "Maulai Hasan Feer b Mulla Ali - Delmaal, Gujarat"
+    },
+    {
+      "sub": 2,
+      "code": "1017",
+      "occasion": "Noor Umme Syd Yusuf - \"Mai Saheb\" - Surat"
+    },
+    {
+      "sub": 3,
+      "code": "1018",
+      "occasion": "Fatema Ukhte Syd Yusuf - Surat"
+    }
+  ],
+  "1-27": [
+    {
+      "sub": 1,
+      "code": "1019",
+      "occasion": "Maulai Fakhruddin Shaheed - Galiakot - Rajesthan"
+    }
+  ],
+  "1-28": [
+    {
+      "sub": 1,
+      "code": "1020",
+      "occasion": "Maulai Moosa b Taj Shaheed - Baroda (Panigate)"
+    }
+  ],
+  "1-29": [
+    {
+      "sub": 1,
+      "code": "1021",
+      "occasion": "Maulai Hasan b Adam - 883H"
+    }
+  ],
+  "1-30": [
+    {
+      "sub": 1,
+      "code": "1022",
+      "occasion": "Syd Abdillah b J\u00e1far b Muhammed - Ma\u00e1zid Azeem (941H)"
+    }
+  ],
+  "2-3": [
+    {
+      "sub": 1,
+      "code": "201",
+      "occasion": "Syd Ali b Abdullah AlAnaf (18) - 832H - Yemen"
+    }
+  ],
+  "2-4": [
+    {
+      "sub": 1,
+      "code": "202",
+      "occasion": "Syd Al Hasan b Ismail (42) - 1289H Hadidah - Yemen"
+    }
+  ],
+  "2-8": [
+    {
+      "sub": 1,
+      "code": "203",
+      "occasion": "Syd Khattab Ibn Hassan (1st Da'ee Ghair Munfarid) - Yemen"
+    }
+  ],
+  "2-10": [
+    {
+      "sub": 1,
+      "code": "204",
+      "occasion": "Syd Ismail b  Muhmmd Al Makrami (40) 1256H - Badr Yemen"
+    }
+  ],
+  "2-12": [
+    {
+      "sub": 1,
+      "code": "205",
+      "occasion": "Bab ul Abwaab Syd Ahmad b Abdillah Al-Kirmaani"
+    }
+  ],
+  "2-13": [
+    {
+      "sub": 1,
+      "code": "206",
+      "occasion": "Syedi Adam b Suleman  - Ahmdeabad 836H"
+    }
+  ],
+  "2-14": [
+    {
+      "sub": 1,
+      "code": "207",
+      "occasion": "Kaaka Akela Wa Kaaki Akeli - Khambhat, Gujarat"
+    }
+  ],
+  "2-16": [
+    {
+      "sub": 1,
+      "code": "208",
+      "occasion": "Imam Ahmad Al Mustaali A.S.  - 495H"
+    },
+    {
+      "sub": 2,
+      "code": "209",
+      "occasion": "Syd Ismail b Hiba (34) 1184H, Salwa Najran"
+    }
+  ],
+  "2-17": [
+    {
+      "sub": 1,
+      "code": "2010",
+      "occasion": "Syd Ibrahim b Muhmmd (31) - Tayba, Yemen"
+    }
+  ],
+  "2-19": [
+    {
+      "sub": 1,
+      "code": "2011",
+      "occasion": "Haz Zia Ali b Haz Ishaque QR - 1417H"
+    }
+  ],
+  "2-20": [
+    {
+      "sub": 1,
+      "code": "2012",
+      "occasion": "Chehlum Imam Hussain b Maulana Ali A.S."
+    }
+  ],
+  "2-21": [
+    {
+      "sub": 1,
+      "code": "2013",
+      "occasion": "Syd Ali b Al Hasan Al Mahfouzi (10) 686H - San'a Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "2014",
+      "occasion": "Syd Ghulam Hussain b Farhat Ali (47) - 1375H Mumbai, India"
+    },
+    {
+      "sub": 3,
+      "code": "2015",
+      "occasion": "Haz Al Mansoob Sheikh Dawood b Ahmad - 1108H"
+    }
+  ],
+  "2-22": [
+    {
+      "sub": 1,
+      "code": "2016",
+      "occasion": "Syd Hussain b Ali AlAnaf (8) - 667H - San'a - Yemen"
+    }
+  ],
+  "2-25": [
+    {
+      "sub": 1,
+      "code": "2017",
+      "occasion": "Syd Hibatullah b Ibrahim (33) - 1160H Salwa, Najran"
+    }
+  ],
+  "2-27": [
+    {
+      "sub": 1,
+      "code": "2018",
+      "occasion": "Syd Muhmmd b Hussain b Idrees AlAnaf (23) 946H - Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "2019",
+      "occasion": "Haz Muhmmd Ali b Saleh Al badri - A'bad (Waanch)- 1158H"
+    }
+  ],
+  "3-1": [
+    {
+      "sub": 1,
+      "code": "301",
+      "occasion": "AlHaddul Fazil Sheikh Hussain b Ibrahim AlShaibani (1216H)"
+    }
+  ],
+  "3-2": [
+    {
+      "sub": 1,
+      "code": "302",
+      "occasion": "Shk Khan b Haas b Muhammed (hudood - 995H)"
+    }
+  ],
+  "3-3": [
+    {
+      "sub": 1,
+      "code": "303",
+      "occasion": "Milad Imam Hassan Alhakim Be AmrAllah A.S."
+    }
+  ],
+  "3-4": [
+    {
+      "sub": 1,
+      "code": "304",
+      "occasion": "Syd Hussain b Syd Ali b Hanzala (Muwahhileen 684H)"
+    }
+  ],
+  "3-5": [
+    {
+      "sub": 1,
+      "code": "305",
+      "occasion": "Imam Hasan Al Mujtaba A.S. - Medina - 50H"
+    }
+  ],
+  "3-6": [
+    {
+      "sub": 1,
+      "code": "306",
+      "occasion": "Syd Ahmad b Muhammed b Syd Ali b Hanzala (Mu\u00e1zid - 625H)"
+    }
+  ],
+  "3-7": [
+    {
+      "sub": 1,
+      "code": "307",
+      "occasion": "Syd Ali Syd Mufaddal b Ali b Saba (Mua\u00e1zid Azeem - (604H)"
+    }
+  ],
+  "3-12": [
+    {
+      "sub": 1,
+      "code": "308",
+      "occasion": "Eid e Milad Un Nabi"
+    },
+    {
+      "sub": 2,
+      "code": "309",
+      "occasion": "Syd Hasan b Muhmmd Al Makrami (41) 1262H - Badr, Yemen"
+    }
+  ],
+  "3-13": [
+    {
+      "sub": 1,
+      "code": "3010",
+      "occasion": "Syd Ali b Hanzala Al Mehfouzi (6) 626H - San'a Yemen"
+    }
+  ],
+  "3-15": [
+    {
+      "sub": 1,
+      "code": "3011",
+      "occasion": "Imam Abdullah AlMehdi Billah AS. 322H - Mahdiya - Egypt"
+    }
+  ],
+  "3-17": [
+    {
+      "sub": 1,
+      "code": "3012",
+      "occasion": "Milad Imam Jaffer As Sadiq A.S."
+    }
+  ],
+  "3-21": [
+    {
+      "sub": 1,
+      "code": "3013",
+      "occasion": "Shk Ahmad b Idrees b Isma\u00e9el b Syd Idrees (845H)"
+    }
+  ],
+  "3-23": [
+    {
+      "sub": 1,
+      "code": "3014",
+      "occasion": "Shams Ali b Dhual Jaddain Al Makrami"
+    },
+    {
+      "sub": 1,
+      "code": "3015",
+      "occasion": "Qazi Khan Shujauddin b Amin Shah - 999H - Harwad - Gujarat"
+    }
+  ],
+  "3-24": [
+    {
+      "sub": 1,
+      "code": "3016",
+      "occasion": "Syd Izzat Ali b Muhmmd Hussain (Daee Ghair Munfarid) - Baroda"
+    }
+  ],
+  "3-25": [
+    {
+      "sub": 1,
+      "code": "3017",
+      "occasion": "Shk Abdillah b Mansoor (Hudood - 592H)"
+    }
+  ],
+  "3-26": [
+    {
+      "sub": 1,
+      "code": "3018",
+      "occasion": "Syd Muhmmd b Ismail AlMakrami (32) 1129H - Najran"
+    }
+  ],
+  "3-27": [
+    {
+      "sub": 1,
+      "code": "3019",
+      "occasion": "Haz Ghulam Hussain Faiyaz Ali b Syd Izzatali 1248 H Hyd"
+    }
+  ],
+  "3-28": [
+    {
+      "sub": 1,
+      "code": "3020",
+      "occasion": "Al Hurra Fatima bt Syd Dawood b Ajabshah (997H)"
+    }
+  ],
+  "3-29": [
+    {
+      "sub": 1,
+      "code": "3021",
+      "occasion": "Syd Ja'fer b Syd Sulaiman (28) 1050H - Tayba, Yemen"
+    }
+  ],
+  "3-30": [
+    {
+      "sub": 1,
+      "code": "3022",
+      "occasion": "Shk Jabir b Fahad b Salah (Da\u00e9e Yemen 1033H)"
+    }
+  ],
+  "4-1": [
+    {
+      "sub": 1,
+      "code": "401",
+      "occasion": "Shk Ja'far b Hatim (839H) & Shah Muhmmd b Khan (1030H)"
+    }
+  ],
+  "4-2": [
+    {
+      "sub": 1,
+      "code": "402",
+      "occasion": "Syd Hassan b Muhmmd b Ali b Ahmad (Mua'zid Azeem - 871H)"
+    }
+  ],
+  "4-3": [
+    {
+      "sub": 1,
+      "code": "403",
+      "occasion": "Syd Hussain b Ali ZuAlJaddain (Rukn Azeem - 1155H)"
+    }
+  ],
+  "4-4": [
+    {
+      "sub": 1,
+      "code": "404",
+      "occasion": "Syd Ali b Muhmmd b Hatim (Ghair Munfarid 729H)"
+    }
+  ],
+  "4-7": [
+    {
+      "sub": 1,
+      "code": "405",
+      "occasion": "Syd Isma\u00e9el b Syd Ibraheem b Syd Ali (Mua'zid 729H)"
+    }
+  ],
+  "4-8": [
+    {
+      "sub": 1,
+      "code": "406",
+      "occasion": "Shk Ahmadji b Syd Dawood b Ajabshah (1041H)"
+    }
+  ],
+  "4-11": [
+    {
+      "sub": 1,
+      "code": "407",
+      "occasion": "Imam Ma'ad AlMoiz Le Deen Allah AS. 365H - Cairo Egypt"
+    }
+  ],
+  "4-12": [
+    {
+      "sub": 1,
+      "code": "408",
+      "occasion": "Mulla Ya'asoub uz Zaman b Hz Muhmmd Shakir Qr."
+    }
+  ],
+  "4-13": [
+    {
+      "sub": 1,
+      "code": "409",
+      "occasion": "H. Al Mansoob Abdul Raheem b Salehbhai Qr - 1216H"
+    }
+  ],
+  "4-16": [
+    {
+      "sub": 1,
+      "code": "4010",
+      "occasion": "Syd Abdul Jaleel b Hasan (25) - (Syd. Jalaal) - 974H A'bad"
+    }
+  ],
+  "4-19": [
+    {
+      "sub": 1,
+      "code": "4011",
+      "occasion": "Syd Ma'ad b Syd Ali b Syd AbdulMuttalib (Mua'zid Azeem - 871H)"
+    }
+  ],
+  "4-25": [
+    {
+      "sub": 1,
+      "code": "4012",
+      "occasion": "Syd Hussain b Ismail (51)  1426H - Najran"
+    }
+  ],
+  "4-27": [
+    {
+      "sub": 1,
+      "code": "4013",
+      "occasion": "Syd Dawood b Ajab Shah (26) 997H - A'bad"
+    }
+  ],
+  "5-1": [
+    {
+      "sub": 1,
+      "code": "501",
+      "occasion": "Syd Ahmad Al Mukarram Al Salehi - Yemen"
+    }
+  ],
+  "5-4": [
+    {
+      "sub": 1,
+      "code": "502",
+      "occasion": "Milad Imam Taiyyab A.S."
+    },
+    {
+      "sub": 2,
+      "code": "503",
+      "occasion": "Hz Sheikh Ibraheem b Sabah Ali - 1278H"
+    }
+  ],
+  "5-11": [
+    {
+      "sub": 1,
+      "code": "504",
+      "occasion": "Syd Ali b Hussain Al Jamali (49) 1396H - Najran"
+    },
+    {
+      "sub": 2,
+      "code": "505",
+      "occasion": "Maulai Nooruddin - Dongaon Aurangabad - 530H"
+    },
+    {
+      "sub": 3,
+      "code": "506",
+      "occasion": "Al Alemah Azeezaboo bt Qasim Khan QR - 1125H"
+    }
+  ],
+  "5-12": [
+    {
+      "sub": 1,
+      "code": "507",
+      "occasion": "Syd Hasan b Hibatullah (35) 1189H - Dahzah - Najran"
+    }
+  ],
+  "5-15": [
+    {
+      "sub": 1,
+      "code": "508",
+      "occasion": "Milad Imam Ali Zainul Aabedeen A.S."
+    }
+  ],
+  "5-21": [
+    {
+      "sub": 1,
+      "code": "509",
+      "occasion": "Haz Karamullah b M.Sadiq - Baroda"
+    }
+  ],
+  "5-23": [
+    {
+      "sub": 1,
+      "code": "5010",
+      "occasion": "Maulatena Fatema bte Rasool Allah A.S. 11H - Medina"
+    }
+  ],
+  "5-25": [
+    {
+      "sub": 1,
+      "code": "5011",
+      "occasion": "Hz Al Mansoob Muhmmd Ibrahim b HZ Muhmmd. Ishaq QR - 1442H"
+    }
+  ],
+  "5-27": [
+    {
+      "sub": 1,
+      "code": "5012",
+      "occasion": "Maulai Qasim b Hassan 950H -  A'bad"
+    }
+  ],
+  "6-3": [
+    {
+      "sub": 1,
+      "code": "601",
+      "occasion": "Haz. Al Masoob Ja'fer b Yousuf Khan - 1132H"
+    }
+  ],
+  "6-18": [
+    {
+      "sub": 1,
+      "code": "602",
+      "occasion": "Syd Ahmad b Ismail (43) 1306H - Badr Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "603",
+      "occasion": "Syd Abdullah b Muhammed Al Udaini (52) 1436H - Najran"
+    }
+  ],
+  "6-20": [
+    {
+      "sub": 1,
+      "code": "604",
+      "occasion": "Milad Maulatena Fatema bte Rasool Allah A.S."
+    }
+  ],
+  "6-27": [
+    {
+      "sub": 1,
+      "code": "605",
+      "occasion": "Syd Lamak b Malik  491H - Yemen"
+    }
+  ],
+  "6-28": [
+    {
+      "sub": 1,
+      "code": "606",
+      "occasion": "Syd Ahmad b Mubarak (7) 627H - San'a Yemen"
+    }
+  ],
+  "6-29": [
+    {
+      "sub": 1,
+      "code": "607",
+      "occasion": "Syd Qazi Nu'man b Muhammed, 389H Cairo Egypt"
+    },
+    {
+      "sub": 2,
+      "code": "608",
+      "occasion": "WASHIQ - Jamadil Akhir"
+    }
+  ],
+  "7-1": [
+    {
+      "sub": 1,
+      "code": "701",
+      "occasion": "Milad Imam Muhmmd Al Baqer AS."
+    }
+  ],
+  "7-4": [
+    {
+      "sub": 1,
+      "code": "702",
+      "occasion": "Syd Sher Muhammed b Abdul Qaliq - 1146H"
+    }
+  ],
+  "7-5": [
+    {
+      "sub": 1,
+      "code": "703",
+      "occasion": "Maulatena Zainab bt Maulana Ali - 63H - Syria"
+    }
+  ],
+  "7-6": [
+    {
+      "sub": 1,
+      "code": "704",
+      "occasion": "Haz Muhmmd Shakir b Wali Muhmmd,  1393H - Baroda"
+    }
+  ],
+  "7-9": [
+    {
+      "sub": 1,
+      "code": "705",
+      "occasion": "Syd Yusuf b Ali (38) 1234H - Sawabh - Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "706",
+      "occasion": "Syd Hussain b Hussain (39) 1241H - So'fan Yemen"
+    }
+  ],
+  "7-10": [
+    {
+      "sub": 1,
+      "code": "707",
+      "occasion": "Syd Ali b Mohsin Shabam (46) 1355H - Najran"
+    }
+  ],
+  "7-11": [
+    {
+      "sub": 1,
+      "code": "708",
+      "occasion": "Maulai Raj b Dawood Shaheed - Ahmadabad"
+    }
+  ],
+  "7-14": [
+    {
+      "sub": 1,
+      "code": "709",
+      "occasion": "Syd Abdul Muttalib b Muhmmd (14) 755H - Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "7010",
+      "occasion": "Maulai Yaqub b Bharmal - Patan, Gujarat"
+    }
+  ],
+  "7-15": [
+    {
+      "sub": 1,
+      "code": "7011",
+      "occasion": "ZAWAL US THAMAN"
+    }
+  ],
+  "7-18": [
+    {
+      "sub": 1,
+      "code": "7012",
+      "occasion": "Syd Ali b Ibrahim (13) 746H - Yemen"
+    }
+  ],
+  "7-26": [
+    {
+      "sub": 1,
+      "code": "7013",
+      "occasion": "WASHIQ - Rajab"
+    }
+  ],
+  "7-27": [
+    {
+      "sub": 1,
+      "code": "7014",
+      "occasion": "Milad Maulana Ali b Abi Taalib A.S."
+    }
+  ],
+  "7-30": [
+    {
+      "sub": 1,
+      "code": "7015",
+      "occasion": "Syd Abdullah b Ali (44) 1323H- Yemen"
+    }
+  ],
+  "8-1": [
+    {
+      "sub": 1,
+      "code": "801",
+      "occasion": "Syd Muhmmd b Fahad (29) 1042H - Tayba, Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "802",
+      "occasion": "Al Hadd UlFazil Mulla Gauhar Ali Hakeem 1373H - Baroda"
+    }
+  ],
+  "8-5": [
+    {
+      "sub": 1,
+      "code": "803",
+      "occasion": "Milad Imam Hussain b Maulana Ali AS 49H Baqi, Madina"
+    }
+  ],
+  "8-7": [
+    {
+      "sub": 1,
+      "code": "804",
+      "occasion": "Syd Ibrahim b Hussain AlHamidi (2) 557H San'a Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "805",
+      "occasion": "Sayyedati Hoora bt Ali Muhammed"
+    }
+  ],
+  "8-11": [
+    {
+      "sub": 1,
+      "code": "806",
+      "occasion": "Syd Sulaiman b Al Hasan (27) 1006H - A'Bad"
+    }
+  ],
+  "8-13": [
+    {
+      "sub": 1,
+      "code": "807",
+      "occasion": "Syd Hussain b Al Hassan (50) - Najran"
+    }
+  ],
+  "8-14": [
+    {
+      "sub": 1,
+      "code": "808",
+      "occasion": "Haz Muhmmd Hussain Saheb QR - 1353H"
+    },
+    {
+      "sub": 2,
+      "code": "809",
+      "occasion": "Lailatul Nisf e Sha'aban - Washiq"
+    }
+  ],
+  "8-15": [
+    {
+      "sub": 1,
+      "code": "8010",
+      "occasion": "Imam Ali AzZahir AS. 427H - Cairo Egypt"
+    },
+    {
+      "sub": 2,
+      "code": "8011",
+      "occasion": "Syd Hasan b Idrees (20) 918H - Tayba, Yemen"
+    }
+  ],
+  "8-17": [
+    {
+      "sub": 1,
+      "code": "8012",
+      "occasion": "Haz Qasim b Ali Muhmmd QR - Hyderabad"
+    }
+  ],
+  "8-18": [
+    {
+      "sub": 1,
+      "code": "8013",
+      "occasion": "Syd Faiz Ali b Syd Suleman (30) 1088H A'bad"
+    },
+    {
+      "sub": 2,
+      "code": "8014",
+      "occasion": "Syd Hussain b Ahmad (48) 1358H - Ta'if Hijaz"
+    }
+  ],
+  "8-22": [
+    {
+      "sub": 1,
+      "code": "8015",
+      "occasion": "Maulatena Urwa bte Ahmad - A'bad"
+    }
+  ],
+  "8-25": [
+    {
+      "sub": 1,
+      "code": "8016",
+      "occasion": "Maulatena Hurratul Maleka bt Ahmad Al Sulaihi"
+    }
+  ],
+  "8-27": [
+    {
+      "sub": 1,
+      "code": "8017",
+      "occasion": "Syd Ali b Muhmmd b Waleed (5) 612H- San'a Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "8018",
+      "occasion": "Syd Ali b Hibatullah (45) 1331H Yemen"
+    }
+  ],
+  "9-1": [
+    {
+      "sub": 1,
+      "code": "901",
+      "occasion": "Syd Hasan b Yusuf QR (Da'ee Ghair Munfarid)"
+    }
+  ],
+  "9-2": [
+    {
+      "sub": 1,
+      "code": "902",
+      "occasion": "Syedati Zehra bte Yusuf QR"
+    }
+  ],
+  "9-3": [
+    {
+      "sub": 1,
+      "code": "903",
+      "occasion": "Milad Imam Ali Az Zahir A.S."
+    }
+  ],
+  "9-9": [
+    {
+      "sub": 1,
+      "code": "904",
+      "occasion": "Syd Abdullah b Ali AlAnaf (16) 809H - Zmarmar Yemen"
+    }
+  ],
+  "9-11": [
+    {
+      "sub": 1,
+      "code": "905",
+      "occasion": "Haz Fathullah b Farhat Ali - Baroda - 1351H"
+    },
+    {
+      "sub": 2,
+      "code": "906",
+      "occasion": "Ras ul Hudoud Maulwi M. Abbas Nadwi - Baroda - 1421H"
+    }
+  ],
+  "9-12": [
+    {
+      "sub": 1,
+      "code": "907",
+      "occasion": "Imam Nazaar AlAziz Billah AS. - 386H Cairo Egypt"
+    },
+    {
+      "sub": 2,
+      "code": "908",
+      "occasion": "Haz Nasrullah b Hibatullah QR - Mumbai - 1399H"
+    }
+  ],
+  "9-14": [
+    {
+      "sub": 1,
+      "code": "909",
+      "occasion": "Al Hadd Ul Fazil Maulwi Abd ul Haleem - 1248H"
+    }
+  ],
+  "9-15": [
+    {
+      "sub": 1,
+      "code": "9010",
+      "occasion": "Milad Imam Hasan b Imam Ali A.S."
+    },
+    {
+      "sub": 2,
+      "code": "9011",
+      "occasion": "Hazrat Sheikh Saleh b Ahmad - 1141H"
+    }
+  ],
+  "9-16": [
+    {
+      "sub": 1,
+      "code": "9012",
+      "occasion": "WASHIQ - Ramadan (17) & Milad Imam Maad Al Mustansir A.S."
+    }
+  ],
+  "9-17": [
+    {
+      "sub": 1,
+      "code": "9013",
+      "occasion": "Hazrat Abdullah b Hibbatullah QR - Hyderabad 1437"
+    }
+  ],
+  "9-18": [
+    {
+      "sub": 1,
+      "code": "9014",
+      "occasion": "WASHIQ - Ramadan (19)"
+    }
+  ],
+  "9-19": [
+    {
+      "sub": 1,
+      "code": "9015",
+      "occasion": "Shahadat - Maulana Ali b Abu Taalib A.S."
+    }
+  ],
+  "9-20": [
+    {
+      "sub": 1,
+      "code": "9016",
+      "occasion": "WASHIQ - Ramadan (21)"
+    }
+  ],
+  "9-21": [
+    {
+      "sub": 1,
+      "code": "9017",
+      "occasion": "Maulana Ali b Abi Taalib A.S. - 40H"
+    },
+    {
+      "sub": 2,
+      "code": "9018",
+      "occasion": "Saleh b Sayyedna Hassan Khan - 1098H"
+    }
+  ],
+  "9-22": [
+    {
+      "sub": 1,
+      "code": "9019",
+      "occasion": "LAILATUL-QADR"
+    }
+  ],
+  "9-25": [
+    {
+      "sub": 1,
+      "code": "9020",
+      "occasion": "Shahadat - Syd Sulaiman b Al Hasan (27) - Lahore"
+    }
+  ],
+  "9-29": [
+    {
+      "sub": 1,
+      "code": "9021",
+      "occasion": "Syd Abdul Ali b Al Hasan (36) 1195H + LAULATUL WIDA"
+    }
+  ],
+  "9-30": [
+    {
+      "sub": 1,
+      "code": "9022",
+      "occasion": "LAILATUL-EID"
+    }
+  ],
+  "10-1": [
+    {
+      "sub": 1,
+      "code": "1001",
+      "occasion": "EID-UL-FITR"
+    }
+  ],
+  "10-5": [
+    {
+      "sub": 1,
+      "code": "1002",
+      "occasion": "Saydti Sitt un Nia'am Zauja e Sy. Ahmad Al Makrami"
+    }
+  ],
+  "10-6": [
+    {
+      "sub": 1,
+      "code": "1003",
+      "occasion": "Syed Hasan b Abdullah (17) 821H - Zmarmar Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "1004",
+      "occasion": "Syd Abdut Taiyeb b Syd Sulaiman - (Da'ee Ghair Munfarid)"
+    }
+  ],
+  "10-7": [
+    {
+      "sub": 1,
+      "code": "1005",
+      "occasion": "Syd Muhmmd b Taher - (3rd Da'ee Ghair Munfarid - 584H )"
+    }
+  ],
+  "10-8": [
+    {
+      "sub": 1,
+      "code": "1006",
+      "occasion": "Syd Abbas b Muhmmd (15) 779H - Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "1007",
+      "occasion": "Sayyidna Abuzar ul Ghifaari"
+    },
+    {
+      "sub": 3,
+      "code": "1008",
+      "occasion": "Sayyida Alhurra Rummaana - 3rd W/o Sayyidna Dawood b Ajab Shah QR"
+    }
+  ],
+  "10-10": [
+    {
+      "sub": 1,
+      "code": "1009",
+      "occasion": "Syd Ibrahim b Hussain (11) 728H - Af'idah, Yemen"
+    },
+    {
+      "sub": 2,
+      "code": "10010",
+      "occasion": "Syd Hussain b Idrees (21) 933H - Yemen"
+    }
+  ],
+  "10-12": [
+    {
+      "sub": 1,
+      "code": "10011",
+      "occasion": "Milad Imam Abdullah Al Mehdi Billah A.S."
+    },
+    {
+      "sub": 2,
+      "code": "10012",
+      "occasion": "Syd Muhammed b Abdullah (Da'ee E Yemen)"
+    }
+  ],
+  "10-13": [
+    {
+      "sub": 1,
+      "code": "10013",
+      "occasion": "Imam Muhmmd Al Qa'im Be AmrAllah AS. 334H Mahdiyah Egypt"
+    }
+  ],
+  "10-15": [
+    {
+      "sub": 1,
+      "code": "10014",
+      "occasion": "Imam Ja'far As Saadiq A.S."
+    }
+  ],
+  "10-19": [
+    {
+      "sub": 1,
+      "code": "10015",
+      "occasion": "Haz Zia Ali b Shaikh Ibrahim 1330H - Hyderabad"
+    }
+  ],
+  "10-24": [
+    {
+      "sub": 1,
+      "code": "10016",
+      "occasion": "Syd Jamaali  - Da'ee E Ghair Munfarid"
+    }
+  ],
+  "10-25": [
+    {
+      "sub": 1,
+      "code": "10017",
+      "occasion": "Syd. Hassan b Malik - 1107H - Ahmadabad"
+    }
+  ],
+  "10-27": [
+    {
+      "sub": 1,
+      "code": "10018",
+      "occasion": "Imam Hasan AlHaakim Be AmrAllah AS. 411H - Cairo, Egypt "
+    },
+    {
+      "sub": 2,
+      "code": "10019",
+      "occasion": "Milad Syd Sulaiman b Hassan b Syd Yousuf Najmuddin QR."
+    }
+  ],
+  "10-29": [
+    {
+      "sub": 1,
+      "code": "10020",
+      "occasion": "Imam Ismail AlMansoor Billah AS. 341H- Cairo, Egypt "
+    }
+  ],
+  "11-1": [
+    {
+      "sub": 1,
+      "code": "1101",
+      "occasion": "HaddulFazil Jamaaluddin Ali b Qutubuddin - 1195H"
+    },
+    {
+      "sub": 2,
+      "code": "1102",
+      "occasion": "Sayyedi Yousuf b Ali Khan-  1121H - Sindh"
+    }
+  ],
+  "11-3": [
+    {
+      "sub": 1,
+      "code": "1103",
+      "occasion": "Imam Masoor Al Aamir Be Ahkaamillah AS. - 526H"
+    }
+  ],
+  "11-10": [
+    {
+      "sub": 1,
+      "code": "1104",
+      "occasion": "Syd Ali b Sayyedna Hassan Khan"
+    }
+  ],
+  "11-11": [
+    {
+      "sub": 1,
+      "code": "1105",
+      "occasion": "Syd Ali b Muhmmd Al Sulehi- Yemen - 459H"
+    },
+    {
+      "sub": 2,
+      "code": "1106",
+      "occasion": "Syd Hasan b Nooh Bharoochi- 941H Cairo Egypt"
+    }
+  ],
+  "11-13": [
+    {
+      "sub": 1,
+      "code": "1107",
+      "occasion": "Syd Ali b Hussain AlAnaf  (9) 682H - Yemen"
+    }
+  ],
+  "11-17": [
+    {
+      "sub": 1,
+      "code": "1108",
+      "occasion": "Syd Abdullah b Ali (37) 1225H - Badr, Yemen"
+    }
+  ],
+  "11-19": [
+    {
+      "sub": 1,
+      "code": "1109",
+      "occasion": "Syd Idrees b Hasan AlAnaf (19) 872H, Shabam Yemen"
+    }
+  ],
+  "11-21": [
+    {
+      "sub": 1,
+      "code": "11010",
+      "occasion": "Syd Ali b Hussain AlAnaf (22) 933H - Yemen"
+    }
+  ],
+  "11-25": [
+    {
+      "sub": 1,
+      "code": "11011",
+      "occasion": "Syd Ali b Hatim Al Hamidi (4) 605H Shariqa Yemen"
+    }
+  ],
+  "11-27": [
+    {
+      "sub": 1,
+      "code": "11012",
+      "occasion": "Al Mansoob Abdullah b Hamed - Najran"
+    },
+    {
+      "sub": 2,
+      "code": "11013",
+      "occasion": "Alhaaj Maulawi Ameeruddin Haleem 1409H (Surat)"
+    }
+  ],
+  "11-29": [
+    {
+      "sub": 1,
+      "code": "11014",
+      "occasion": "NUZUL'E KAABATULLAH"
+    }
+  ],
+  "11-30": [
+    {
+      "sub": 1,
+      "code": "11015",
+      "occasion": "Muhammed b Ali b Hatim AlAnaf (12) 729H - Yemen"
+    }
+  ],
+  "12-5": [
+    {
+      "sub": 1,
+      "code": "1201",
+      "occasion": "Haz Farhat Ali b Ghulam Hussain Qr - Hyderabad"
+    }
+  ],
+  "12-7": [
+    {
+      "sub": 1,
+      "code": "1202",
+      "occasion": "Imam Muhammed Al Baqer 114H - Baquie Madina"
+    },
+    {
+      "sub": 2,
+      "code": "1203",
+      "occasion": "Janab Muslim b Aqeel - Kufa"
+    },
+    {
+      "sub": 3,
+      "code": "1204",
+      "occasion": "Janab Hani b Urwa - 61H Karbala"
+    }
+  ],
+  "12-9": [
+    {
+      "sub": 1,
+      "code": "1205",
+      "occasion": "YAUM'E ARAFAA"
+    },
+    {
+      "sub": 2,
+      "code": "1206",
+      "occasion": "LAILATUL EID-UL-ADHA"
+    }
+  ],
+  "12-10": [
+    {
+      "sub": 1,
+      "code": "1207",
+      "occasion": "EID-UL-ADHA"
+    }
+  ],
+  "12-11": [
+    {
+      "sub": 1,
+      "code": "1208",
+      "occasion": "Syd Ahmad b Hasan (Da'ee E Ghair Munfarid)"
+    }
+  ],
+  "12-13": [
+    {
+      "sub": 1,
+      "code": "1209",
+      "occasion": "Maulai Firoz b Sulaiman - Ahmadabad"
+    }
+  ],
+  "12-16": [
+    {
+      "sub": 1,
+      "code": "12010",
+      "occasion": "Syd Yusuf b Sulaiman (24) 973H - Tayba Yemen"
+    }
+  ],
+  "12-17": [
+    {
+      "sub": 1,
+      "code": "12011",
+      "occasion": "Milad Haz Zia Ali b Haz Ishaque - Hyderabad"
+    }
+  ],
+  "12-18": [
+    {
+      "sub": 1,
+      "code": "12012",
+      "occasion": "Imam Maad Al Mustansir Billah - 487H"
+    },
+    {
+      "sub": 2,
+      "code": "12013",
+      "occasion": "EID-UL-GHADEER"
+    }
+  ],
+  "12-20": [
+    {
+      "sub": 1,
+      "code": "12014",
+      "occasion": "Milad Syd Jaa'fer b Syd Sulaiman"
+    }
+  ],
+  "12-25": [
+    {
+      "sub": 1,
+      "code": "12015",
+      "occasion": "Syd Ali b Idrees Al Sunbali (Da'ee E Yemen)"
+    }
+  ]
+}
