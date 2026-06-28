@@ -1,4 +1,4 @@
-# Fatimid (Misri) Hijri Calendar — Python Edition
+# Fatimid Hijri Calendar — Python Streamlit Edition
 
 A standalone desktop application that reproduces the **Fatimid / Misri Hijri
 calendar** workbook (`CALENDAR (Updated).xlsx`) as pure Python.
