@@ -34,7 +34,7 @@ LIGHT_BLUE  = "#dce6f2"
 RED_DATE    = "#c00000"
 YELLOW      = "#f2ef00"
 WHITE       = "#ffffff"
-TODAY_BG    = "#F0EEC2"
+TODAY_BG    = "#EDEB8A"
 
 PRAYER_ORDER = ["FJ", "SR", "NN", "ZW", "MG"]
 
